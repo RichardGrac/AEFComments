@@ -1,0 +1,15 @@
+/* Hola 
+mundo*/
+//comentario
+//uno mas
+/**//*hola*/
+//otro mas
+//
+//aqui no llega
+/*
+Comentario
+de 
+6 
+lineas
+*/
+Ahora un error :)
